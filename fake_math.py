@@ -5,5 +5,7 @@ def divide(first, second):
         return first / second
 
 
-# result = divide(4.8, -2)
-# print(result)
+# result1 = divide(3.6, 0)
+# result2 = divide(-3.6, -2)
+# print(result1)
+# print(result2)
