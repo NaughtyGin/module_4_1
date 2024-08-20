@@ -1,5 +1,6 @@
 from math import inf
 
+
 def divide(first, second):
     if second == 0:
         return inf
@@ -7,5 +8,7 @@ def divide(first, second):
         return first / second
 
 
-# result = divide(3.6, 3)
-# print(result)
+# result1 = divide(3.6, 0)
+# result2 = divide(-3.6, -2)
+# print(result1)
+# print(result2)
